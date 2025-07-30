@@ -77,7 +77,7 @@ python3 main.py
 
 ### Bước 5: Chọn màu chữ
 
-🎨 *Sử dụng bảng màu trực quan*
+🎨 *Sử dụng bảng màu trực quan (Lưu ý nhớ Enter khi paste mã màu)*
 
 ![overlayForImage](images/5.png)
 
